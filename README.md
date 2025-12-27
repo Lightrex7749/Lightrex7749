@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a college student focused on C++ and data structures, building problem-solving skills through regular DSA practice. I’m also learning full-stack web development and exploring tools to better understand how software systems are built in practice.
+Computer Science student focused on problem solving and software development.
+Strong in C++ and Python with active work in DSA and web development.
+Exploring AI/ML and Java next.
+
 <br>
 
 

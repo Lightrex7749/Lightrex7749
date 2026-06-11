@@ -1,8 +1,5 @@
 # 💫 About Me:
-Computer Science student focused on problem solving and software development.
-Strong in C++ and Python with active work in DSA and web development.
-Exploring AI/ML and Java next.
-
+AI ML Engineer in Progress | Full Stack Developer | Buildathon Winner | Building AI Powered Products with PyTorch React FastAPI and LLMs
 <br>
 
 

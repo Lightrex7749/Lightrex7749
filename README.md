@@ -1,5 +1,6 @@
 # 💫 About Me:
-AI ML Engineer in Progress | Full Stack Developer | Buildathon Winner | Building AI Powered Products with PyTorch React FastAPI and LLMs
+C++ Developer | Java Developer | Python Developer | AI ML Engineer | Full Stack Web Developer | Building AI Powered Applications with React FastAPI and PyTorch
+
 <br>
 
 

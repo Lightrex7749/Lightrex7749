@@ -1,164 +1,229 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:7C3AED&height=260&section=header&text=Gaurav%20Rajbhar&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20Cloud%20%C2%B7%20Builder&descSize=20&descAlignY=64&animation=fadeIn" width="100%" alt="header" />
+
 <div align="center">
 
-# Hi 👋, I'm Gaurav Rajbhar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+AI%2FML+Engineer;%F0%9F%8C%90+Web+Developer;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+Builder+%C2%B7+Always+shipping+something;%E2%9C%A8+Code.+Learn.+Build.+Repeat." alt="typing" />
 
-### 🚀 AI Engineer • Full Stack Developer • Software Engineer
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Engineer;Always+Learning+Something+New" />
-
-<img src="https://komarev.com/ghpvc/?username=Lightrex7749&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/Lightrex7749?style=for-the-badge&logo=github&color=24243E&labelColor=7C3AED" />
+<img src="https://img.shields.io/github/stars/Lightrex7749?style=for-the-badge&logo=github&color=24243E&labelColor=7C3AED" />
+<img src="https://komarev.com/ghpvc/?username=Lightrex7749&label=Views&style=for-the-badge&color=24243E&labelColor=7C3AED" />
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+<table align="center" width="100%">
+<tr>
+<td width="58%" valign="middle">
 
-I'm a **Computer Science Engineering student** passionate about building scalable software, AI-powered applications, and solving real-world problems.
+### 👋 Hi, I'm Gaurav
 
-I enjoy working across the full stack—from responsive frontend interfaces to backend APIs, databases, and machine learning systems.
+I'm a **Computer Science Engineering student** who loves building scalable software, **AI-powered apps** and real-world products. I work across the stack, from clean **web interfaces** to **backend APIs**, **databases**, **cloud deployments** and **machine learning systems**.
+
+```yaml
+name:     Gaurav Rajbhar
+role:     AI/ML Engineer · Web Developer
+into:     [Cloud Computing, Open Source, Building things]
+learning: [System Design, Advanced Backend, Cloud Deployment]
+mantra:   "Code. Learn. Build. Repeat."
+```
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBtMzI1bHNtamE0Mnl2cHpkbjFqNDNiN25wZm16YmRjMHp6Zmg3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="100%" alt="coding" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+
+<h2 align="center">🎯 What I Do</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 🤖 AI / ML
+Machine learning, computer vision and RAG-based AI apps
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🌐 Web Dev
+Fast, responsive full-stack apps with React, Next.js and APIs
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### ☁️ Cloud
+Containerising and deploying apps on modern cloud platforms
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🛠️ Builder
+Turning ideas into products people can actually use
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts&theme=dark" /><br/><br/>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" /><br/><br/>
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" /><br/><br/>
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark" /><br/><br/>
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&theme=dark" /><br/><br/>
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,firebase,supabase,linux&theme=dark" /><br/><br/>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🌍 [Suraksha Setu](https://github.com/Lightrex7749/Suraksha-Setu)
+*AI-powered Disaster Intelligence Platform*
+
+Combines satellite data, weather monitoring, emergency alerts and predictive analytics, with RAG and image classification for faster disaster response.
+
+🏆 **State Winner · National Finalist**, OpenAI × NextWave Buildathon
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎓 [AlumUnity](https://github.com/Lightrex7749/AlumUnity)
+*Modern Alumni Management Platform*
+
+Real-time chat, mentorship matching, job portal and AI-powered career intelligence, built with role-based access for every user type.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 👗 [ClothyRec](https://github.com/Lightrex7749/ClothyRec)
+*AI Fashion Stylist*
+
+Recommends outfits using OpenCLIP embeddings and FAISS search, with YOLOv8 + MTCNN for clothing and skin-tone detection and Gemini API for styling tips.
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ [EnergiX](https://github.com/Lightrex7749/EnergiX)
+*Adaptive CPU Scheduling Simulator*
+
+Simulator focused on improving **power efficiency and performance** with adaptive CPU scheduling.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Simulation-7C3AED?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🍽️ [Canteen Management System](https://github.com/Lightrex7749/Canteen-Management-System)
+*Digital solution for food services*
+
+Manages orders, inventory, payments and food services in one place.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lightrex7749&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lightrex7749&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8B4FE&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightrex7749&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=FFFFFF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lightrex7749&bg_color=0D1117&color=D8B4FE&line=A855F7&point=EC4899&area=true&area_color=A855F7&hide_border=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lightrex7749&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+
+<table align="center" width="100%">
+<tr>
+<td width="36%" align="center" valign="middle">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFqemN2ZThxbWh4ZTd4ZjRjMTB6aDlnNzMwcXpzbnhsZnd3dzZoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="100%" alt="anime" />
+
+</td>
+<td width="64%" valign="middle">
 
 ### 🌱 Currently Learning
 
-- Advanced Backend Engineering
-- System Design
-- Artificial Intelligence & Machine Learning
-- Data Structures & Algorithms
-- Cloud Deployment
+- ⚙️ Advanced Backend Engineering
+- 🏗️ System Design
+- 🧠 Artificial Intelligence & Machine Learning
+- 🧩 Data Structures & Algorithms
+- ☁️ Cloud Deployment
 
 ### ⚡ Interests
 
-- 🤖 Artificial Intelligence
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing
-- 📊 Machine Learning
-- 🚀 Open Source
-- 💻 Software Engineering
+🤖 AI · 🌐 Full Stack · ☁️ Cloud Computing · 📊 Machine Learning · 🚀 Open Source · 💻 Software Engineering
 
----
+</td>
+</tr>
+</table>
 
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,render,postman,linux" />
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lightrex7749&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightrex7749&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lightrex7749&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Lightrex7749&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🌍 Suraksha Setu
-
-AI-powered Disaster Intelligence Platform integrating satellite data, weather monitoring, emergency alerts, and predictive analytics.
-
----
-
-## ⚡ EnergiX
-
-Adaptive CPU Scheduling Simulator focused on improving power efficiency and performance.
-
----
-
-## 🎓 AlumUnity
-
-Modern Alumni Management Platform with real-time chat, mentorship matching, and AI-powered career intelligence.
-
----
-
-## 🍽️ Canteen Management System
-
-Digital solution for managing orders, inventory, payments, and food services.
-
----
-
-# 📊 Contribution Graph
-
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lightrex7749&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🤝 Connect with Me
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-
-<a href="mailto:gauravrajbhar2115@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/gauravrajbhar7749">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/RezZ7749">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/rezz_iing">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<a href="mailto:Gauravrajbhar2115@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gauravrajbhar00"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/RezZ7749"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/rezz_iing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
+<p align="center"><b>⭐ Thanks for visiting my profile!</b><br/><i>"Code. Learn. Build. Repeat."</i></p>
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=140&section=footer" width="100%" />

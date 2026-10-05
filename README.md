@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:7C3AED&height=260&section=header&text=Gaurav%20Rajbhar&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20Cloud%20%C2%B7%20Builder&descSize=20&descAlignY=64&animation=fadeIn" width="100%" alt="header" />
+<img src="assets/banner.svg" width="100%" alt="Gaurav Rajbhar - AI/ML Engineer, Web Developer, Cloud, Builder" />
 
 <div align="center">
 
@@ -39,7 +39,7 @@ mantra:   "Code. Learn. Build. Repeat."
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <h2 align="center">🎯 What I Do</h2>
 
@@ -72,9 +72,25 @@ Turning ideas into products people can actually use
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
+
+<h2 align="center">⚙️ My Workflow</h2>
+
+<p align="center">
+  <img src="assets/workflow.svg" width="100%" alt="How I build: idea, design, code, train, ship, deploy" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
+
+<p align="center">
+  <img src="assets/skills-sphere.svg" width="80%" alt="Rotating sphere of my tech stack icons" />
+</p>
+
+<details>
+<summary><b>📚 See the full list by category</b></summary>
+<br/>
 
 <div align="center">
 
@@ -95,7 +111,9 @@ Turning ideas into products people can actually use
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -157,9 +175,19 @@ Simulator focused on improving **power efficiency and performance** with adaptiv
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🍽️ [Canteen Management System](https://github.com/Lightrex7749/Canteen-Management-System)
+*Digital solution for food services*
+
+Manages orders, inventory, payments and food services in one place.
+
+</td>
+</tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -172,23 +200,22 @@ Simulator focused on improving **power efficiency and performance** with adaptiv
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lightrex7749&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8B4FE&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightrex7749&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=FFFFFF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lightrex7749&bg_color=0D1117&color=D8B4FE&line=A855F7&point=EC4899&area=true&area_color=A855F7&hide_border=true" width="100%" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=Lightrex7749&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="divider" />
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lightrex7749/Lightrex7749/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lightrex7749/Lightrex7749/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lightrex7749/Lightrex7749/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lightrex7749/Lightrex7749/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Lightrex7749/Lightrex7749/output/github-contribution-grid-snake.svg" alt="Contribution snake">
   </picture>
-</div>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 <table align="center" width="100%">
 <tr>
@@ -226,4 +253,4 @@ Simulator focused on improving **power efficiency and performance** with adaptiv
 
 <p align="center"><b>⭐ Thanks for visiting my profile!</b><br/><i>"Code. Learn. Build. Repeat."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=140&section=footer&animation=twinkling" width="100%" />

@@ -1,8 +1,12 @@
-<img src="assets/banner.svg" width="100%" alt="Gaurav Rajbhar - AI/ML Engineer, Web Developer, Cloud, Builder" />
+<p align="center">
+  <img src="assets/banner.gif" width="100%" alt="Yokoso, Watashi wa Soul Society" />
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+AI%2FML+Engineer;%F0%9F%8C%90+Web+Developer;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+Builder+%C2%B7+Always+shipping+something;%E2%9C%A8+Code.+Learn.+Build.+Repeat." alt="typing" />
+# Gaurav Rajbhar
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+AI%2FML+Engineer+%C2%B7+Web+Developer;%F0%9F%8E%93+CSE+student+building+AI-powered+products;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%E2%9C%A8+Code.+Learn.+Build.+Repeat." alt="typing" />
 
 <br/><br/>
 
@@ -38,6 +42,16 @@ mantra:   "Code. Learn. Build. Repeat."
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="assets/highlights.svg" width="100%" alt="Highlights: 300+ DSA problems, buildathon winner, HackerRank 5-star" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="divider" />
+
+<p align="center">
+  <img src="assets/soul-society.svg" width="100%" alt="Youkoso, Watashi wa Soul Society" />
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
@@ -84,34 +98,39 @@ Turning ideas into products people can actually use
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-<p align="center">
-  <img src="assets/skills-sphere.svg" width="80%" alt="Rotating sphere of my tech stack icons" />
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="46%" valign="middle">
 
-<details>
-<summary><b>📚 See the full list by category</b></summary>
-<br/>
+**🤖 AI / ML**<br/>
+`PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `pandas` `NumPy` `RAG` `Gemini API`
 
-<div align="center">
+**🌐 Frontend**<br/>
+`React` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Vite`
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts&theme=dark" /><br/><br/>
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" /><br/><br/>
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" /><br/><br/>
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark" /><br/><br/>
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&theme=dark" /><br/><br/>
-**Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,firebase,supabase,linux&theme=dark" /><br/><br/>
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+**⚙️ Backend**<br/>
+`Node.js` `Express` `FastAPI` `REST APIs` `WebSockets` `JWT`
 
-</div>
+**🗄️ Databases**<br/>
+`PostgreSQL` `MongoDB` `MySQL` `SQLite` `Redis`
 
-</details>
+**☁️ Cloud & DevOps**<br/>
+`Docker` `GitHub Actions` `Vercel` `Netlify` `Firebase` `Supabase` `Linux`
+
+**💻 Languages**<br/>
+`Python` `Java` `C++` `C` `JavaScript` `TypeScript`
+
+**🧰 Tools**<br/>
+`Git` `GitHub` `VS Code` `Postman` `Figma`
+
+</td>
+<td width="54%" align="center" valign="middle">
+
+<img src="assets/skills-sphere.svg" width="100%" alt="Rotating sphere of my tech stack icons" />
+
+</td>
+</tr>
+</table>
 
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
@@ -200,7 +219,6 @@ Manages orders, inventory, payments and food services in one place.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lightrex7749&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8B4FE&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightrex7749&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=FFFFFF" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lightrex7749&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 

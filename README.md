@@ -31,6 +31,7 @@ I'm a **Computer Science Engineering student** who loves building scalable softw
 ```yaml
 name:     Gaurav Rajbhar
 role:     AI/ML Engineer · Web Developer
+focus:    [Intelligent products, clean interfaces, reliable systems]
 into:     [Cloud Computing, Open Source, Building things]
 learning: [System Design, Advanced Backend, Cloud Deployment]
 mantra:   "Code. Learn. Build. Repeat."

@@ -89,6 +89,7 @@ Turning ideas into products people can actually use.
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
 <h2 align="center">⚙️ My Workflow</h2>
+<p align="center"><i>Turning ambiguous ideas into simple, shippable systems.</i></p>
 
 <p align="center">
   <img src="assets/workflow.svg" width="100%" alt="How I build: idea, design, code, train, ship, deploy" />

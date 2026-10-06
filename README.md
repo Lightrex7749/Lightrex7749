@@ -257,6 +257,12 @@ Manages orders, inventory, payments and food services in one place.
 
 🤖 AI · 🌐 Full Stack · ☁️ Cloud Computing · 📊 Machine Learning · 🚀 Open Source · 💻 Software Engineering
 
+### ✨ How I Build
+
+- Start with the user problem, not the technology.
+- Keep interfaces simple and systems dependable.
+- Learn quickly, ship intentionally and improve continuously.
+
 </td>
 </tr>
 </table>

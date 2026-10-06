@@ -18,6 +18,8 @@
 
 <br/>
 
+<p align="center"><i>Building thoughtful software at the intersection of intelligence, design, and impact.</i></p>
+
 <table align="center" width="100%">
 <tr>
 <td width="58%" valign="middle">

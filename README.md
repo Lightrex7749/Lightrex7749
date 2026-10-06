@@ -195,16 +195,7 @@ Simulator focused on improving **power efficiency and performance** with adaptiv
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
 
-#### 🍽️ [Canteen Management System](https://github.com/Lightrex7749/Canteen-Management-System)
-*A practical digital solution for food services*
-
-Manages orders, inventory, payments and food services in one place.
-
-</td>
-</tr>
 </table>
 
 <img src="assets/divider.svg" width="100%" alt="divider" />

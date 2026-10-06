@@ -74,7 +74,7 @@ Fast, responsive full-stack apps with React, Next.js and APIs.
 <td width="25%" align="center" valign="top">
 
 ### ☁️ Cloud
-Containerising and deploying apps on modern cloud platforms
+Containerising and deploying apps on modern cloud platforms.
 
 </td>
 <td width="25%" align="center" valign="top">

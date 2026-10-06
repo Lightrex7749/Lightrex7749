@@ -62,7 +62,7 @@ mantra:   "Code. Learn. Build. Repeat."
 <td width="25%" align="center" valign="top">
 
 ### 🤖 AI / ML
-Machine learning, computer vision and RAG-based AI apps
+Machine learning, computer vision and RAG-based AI apps.
 
 </td>
 <td width="25%" align="center" valign="top">

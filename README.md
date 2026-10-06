@@ -55,6 +55,7 @@ mantra:   "Code. Learn. Build. Repeat."
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
 <h2 align="center">🎯 What I Do</h2>
+<p align="center"><i>From first sketch to dependable deployment.</i></p>
 
 <table align="center" width="100%">
 <tr>

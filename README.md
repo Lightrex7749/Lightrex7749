@@ -68,7 +68,7 @@ Machine learning, computer vision and RAG-based AI apps.
 <td width="25%" align="center" valign="top">
 
 ### 🌐 Web Dev
-Fast, responsive full-stack apps with React, Next.js and APIs
+Fast, responsive full-stack apps with React, Next.js and APIs.
 
 </td>
 <td width="25%" align="center" valign="top">

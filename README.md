@@ -26,7 +26,7 @@
 
 ### 👋 Hi, I'm Gaurav
 
-I'm a **Computer Science Engineering student** who loves building scalable software, **AI-powered apps** and real-world products. I work across the stack, from clean **web interfaces** to **backend APIs**, **databases**, **cloud deployments** and **machine learning systems**.
+I'm a **Computer Science Engineering student** who loves building scalable software, **AI-powered apps** and real-world products. I work across the stack, from clean **web interfaces** to **backend APIs**, **databases**, **cloud deployments** and **machine learning systems**—always with a focus on useful, human-centered experiences.
 
 ```yaml
 name:     Gaurav Rajbhar

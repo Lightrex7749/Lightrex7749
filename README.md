@@ -80,7 +80,7 @@ Containerising and deploying apps on modern cloud platforms.
 <td width="25%" align="center" valign="top">
 
 ### 🛠️ Builder
-Turning ideas into products people can actually use
+Turning ideas into products people can actually use.
 
 </td>
 </tr>

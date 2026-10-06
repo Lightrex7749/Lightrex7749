@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# Gaurav Rajbhar
+<img src="assets/name.svg" width="92%" alt="Gaurav Rajbhar — AI/ML Engineer and Web Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+AI%2FML+Engineer+%C2%B7+Web+Developer;%F0%9F%8E%93+CSE+student+building+AI-powered+products;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%E2%9C%A8+Code.+Learn.+Build.+Repeat." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+AI%2FML+Engineer+%C2%B7+Web+Developer;%F0%9F%8E%93+CSE+student+building+AI-powered+products;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%E2%9C%A8+Code.+Learn.+Build.+Repeat." alt="AI/ML Engineer, Web Developer, CSE student, and Cloud Computing Enthusiast" />
 
 <br/><br/>
 
@@ -42,10 +42,6 @@ mantra:   "Code. Learn. Build. Repeat."
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="assets/highlights.svg" width="100%" alt="Highlights: 300+ DSA problems, buildathon winner, HackerRank 5-star" />
-</p>
 
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
@@ -191,16 +187,6 @@ Simulator focused on improving **power efficiency and performance** with adaptiv
 
 <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/Simulation-7C3AED?style=flat-square" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### 🍽️ [Canteen Management System](https://github.com/Lightrex7749/Canteen-Management-System)
-*Digital solution for food services*
-
-Manages orders, inventory, payments and food services in one place.
 
 </td>
 </tr>
